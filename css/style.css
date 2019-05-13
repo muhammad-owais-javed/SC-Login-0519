@@ -36,7 +36,7 @@
 }
 
 .heading {
-	font-family:Calibri;
+	font-family:Calibri,Arial;
 	font-size:x-large;
 	font-weight:700;
 	text-align:center;
@@ -45,7 +45,7 @@
 
 .text1 {
 	color:#999;
-	font-family:Calibri;
+	font-family:Calibri,Arial;
 	font-size:13.5px;
 	text-transform:uppercase;
 	letter-spacing:2px;
@@ -96,7 +96,7 @@
 }
 
 .text2 {
-	font-family:Calibri;
+	font-family:Calibri,Arial;
 	font-weight:600;
 	margin-left:auto;
 	text-align:center;
@@ -185,7 +185,7 @@ ul {
 }
 
 li {
-	font-family:Calibri;
+	font-family:Calibri,Arial;
 	font-size:16px;
 	color:#999;
 
@@ -200,7 +200,7 @@ li {
 
 .footertext {
 	color:#FFF;
-	font-family:Calibri;
+	font-family:Calibri,Arial;
 	font-weight:400;
 	font-size:17px;
 	
